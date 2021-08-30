@@ -1,4 +1,4 @@
-package section1;
+package section1.s1_1;
 
 public class Max3m {
 
