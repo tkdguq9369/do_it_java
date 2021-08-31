@@ -15,10 +15,10 @@ public class Q8 {
 
         int sum;
 
-        sum = (1+n) * (n / 2);
+        sum = (1 + n) * (n / 2);
 
         // 홀수인경우
-        if(n % 2 != 0) {
+        if (n % 2 != 0) {
             sum += (1 + n) / 2;
         }
 
